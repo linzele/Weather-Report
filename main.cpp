@@ -24,8 +24,8 @@ void displayPressureSymbol(int,int);
 
 
 void displayMenu() {
-	cout << "Student ID   :7893619" << endl;
- 	cout << "Student Name : Le Khang Yu" << endl;
+	cout << "ID   : #INPUT YOUR ID" << endl;
+ 	cout << "NAME : #INPUT YOUR NAME" << endl;
 	cout << "--------------------------------" << endl;
 	cout << "Welcome to Weather Information Processing System!" << endl;
 	cout << endl;
